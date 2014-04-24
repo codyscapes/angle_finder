@@ -60,6 +60,7 @@ $(document).ready(function() {
   $('#time').append('<p> The angle between the hour hand and the minute hand is ' + minute_angler(formatted_time()) + ' degrees' + '</p>')
   $('#time').append('<p> The angle between the minute hand and the second hand is ' + second_angler(formatted_time()) + ' degrees' + '</p>')
 
+// This was taken from stack overflow
   $(".user_input").keydown(function (e) {
     if ($.inArray(e.keyCode, [46, 8, 9, 27, 13, 110, 190]) !== -1 ||
         (e.keyCode == 65 && e.ctrlKey === true) ||
