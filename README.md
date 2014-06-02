@@ -1,7 +1,7 @@
 angle_finder
 ============
+
 This was an exercise assigned to all Epicodus students who were interested in working at CrowdSupply.  
-------------------------
 
 
 The Assignment:
@@ -23,3 +23,8 @@ To Do:
 ------
 > Disallow any number above 23 for the hour input or any number above 59 for the minute and seconds input
 
+Link:
+-----
+http://epicody.site44.com/time_to_angles/
+
+>Note: styling was not attempted on this project as the main goal was to evaluate the backend work.
